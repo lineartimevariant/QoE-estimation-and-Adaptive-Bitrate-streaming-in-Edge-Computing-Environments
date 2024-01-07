@@ -1,6 +1,5 @@
 # QoE-estimation-and-Adaptive-Bitrate-streaming-in-Edge-Computing-Environments
 
-Welcome to the repository for the QoE Estimation and Adaptive Bitrate Streaming in Edge Computing Environments project! This project focuses on enhancing the Quality of Experience (QoE) for multimedia streaming applications in Edge Computing environments through advanced QoE estimation techniques and adaptive bitrate streaming.
 
 **Project Overview:**
 In the fast-evolving landscape of multimedia streaming, providing a seamless user experience is paramount. This project addresses the challenges posed by Edge Computing environments, where latency and bandwidth constraints require intelligent solutions. The primary goals of this project include:
