@@ -57,7 +57,7 @@ def filter_packets(pcap_file):
         return None
 
 # Example usage:
-pcap_file_path = 'C:\\NTHU\\Research@irat\\RA\\QoE_VR\\360-VR-QoE-In-band-QoS\\Data_Preprocess\\Raw_Data_Sample\\HTTPS(TCP)\\HTTP-1.1\\Persistant\\host-1_ts-60_thd-1_vpe-0_algo-0_bft-6_delay-5\\host-1_ts-60_thd-1_vpe-0_algo-0_bft-6_delay-5-1.pcap'
+pcap_file_path = 'File path.pcap'
 filter_packets(pcap_file_path)
 
 # Access variables for further analysis or processing
